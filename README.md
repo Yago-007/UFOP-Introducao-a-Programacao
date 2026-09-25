@@ -10,5 +10,7 @@ Repositório criado para registrar minha evolução na programação durante o B
 | 04 | [Expressão de y](04-expressao-y-com-pow.c) | Calcula y = (x1 + x2² + x3²)² − (x1·x2·x3)² | 1 1 1 → 8.00 |
 | 05 | [Simulador de dados RPG](05-simulador-de-dados-rpg.c) | Sorteia um número de 1 até o total de faces | 20 faces |
 | 06 | [Comparaco de pontuações](06-comparacao-de-pontuacoes.c) | Para descobrir e informar qual time possui a maior pontuação e qual possui a menor | A pontuação 35 é maior e 20 a menor.
-| 07 | [Relatório de notas universitárias](07-relatorio-de-notas-universitarias.c) | Este sistema será usado para gerar o histórico acadêmico | Digite a matricula: 1614118  Matricula: 1614118  Digite a nota: 8.1  Conceito B  Nota ≥ 8.0 e < 9.0	Conceito B |
+| 07 | [Relatório de notas universitárias](07-relatorio-de-notas-universitarias.c) | Este sistema será usado para gerar o histórico acadêmico | Digite a matricula: 1614118  Matricula: 1614118  
+Digite a nota: 8.1  
+Conceito B  Nota ≥ 8.0 e < 9.0	Conceito B |
  
