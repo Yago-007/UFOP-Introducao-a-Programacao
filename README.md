@@ -11,4 +11,4 @@ Repositório criado para registrar minha evolução na programação durante o B
 | 05 | [Simulador de dados RPG](05-simulador-de-dados-rpg.c) | Sorteia um número de 1 até o total de faces | 20 faces |
 | 06 | [Comparaco de pontuações](06-comparacao-de-pontuacoes.c) | Para descobrir e informar qual time possui a maior pontuação e qual possui a menor | A pontuação 35 é maior e 20 a menor.
 | 07 | [Relatório de notas universitárias](07-relatorio-de-notas-universitarias.c) | Este sistema será usado para gerar o histórico acadêmico | Digite a matricula: 1614118  Matricula: 1614118                  Digite a nota: 8.1  Nota ≥ 8.0 e < 9.0	Conceito B |
- 
+| 08 | [Consultoria Previdenciária Integrada](08-consultoria-previdenciaria-integrada.c) |Verifica se o requerente pode se aposentar com salário integral |  Mulher, 60 anos e 30 de contribuição: pode se aposentar com salário integral.
