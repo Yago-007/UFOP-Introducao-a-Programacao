@@ -12,3 +12,5 @@ Repositório criado para registrar minha evolução na programação durante o B
 | 06 | [Comparaco de pontuações](06-comparacao-de-pontuacoes.c) | Para descobrir e informar qual time possui a maior pontuação e qual possui a menor | A pontuação 35 é maior e 20 a menor.
 | 07 | [Relatório de notas universitárias](07-relatorio-de-notas-universitarias.c) | Este sistema será usado para gerar o histórico acadêmico | Digite a matricula: 1614118  Matricula: 1614118                  Digite a nota: 8.1  Nota ≥ 8.0 e < 9.0	Conceito B |
 | 08 | [Consultoria Previdenciária Integrada](08-consultoria-previdenciaria-integrada.c) |Verifica se o requerente pode se aposentar com salário integral |  Mulher, 60 anos e 30 de contribuição: pode se aposentar com salário integral.
+| 09 | [Calculadora de Pagamento](09-calculadora-de-pagamento.c) | Para calcular o valor final de um produto conforme a condição de pagamento escolhida | Preço 100 e condição 1: R$ 90.00 |
+| 10 | [Ano Bissexto](10-ano-bissexto.c) | Para verificar se o ano digitado é bissexto | O ano 2040 é bissexto |
