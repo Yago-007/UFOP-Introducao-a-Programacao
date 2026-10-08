@@ -14,3 +14,4 @@ Repositório criado para registrar minha evolução na programação durante o B
 | 08 | [Consultoria Previdenciária Integrada](08-consultoria-previdenciaria-integrada.c) |Verifica se o requerente pode se aposentar com salário integral |  Mulher, 60 anos e 30 de contribuição: pode se aposentar com salário integral.
 | 09 | [Calculadora de Pagamento](09-calculadora-de-pagamento.c) | Para calcular o valor final de um produto conforme a condição de pagamento escolhida | Preço 100 e condição 1: R$ 90.00 |
 | 10 | [Ano Bissexto](10-ano-bissexto.c) | Para verificar se o ano digitado é bissexto | O ano 2040 é bissexto |
+| 11 | [Conversor de Unidades](11-conversor-de-unidades.c) | Para converter valores entre unidades de ângulo e temperatura usando menus com switch | Opção 2, unidade 1 e valor 100: Fahrenheit 212.00 e Kelvin 373.15 |
