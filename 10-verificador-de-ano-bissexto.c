@@ -3,6 +3,7 @@
 int main()
 {
     int ano;
+    
     printf("Entre com o ano:\n\n");
     scanf("%d", &ano);
 
