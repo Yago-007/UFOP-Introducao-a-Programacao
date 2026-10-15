@@ -4,6 +4,7 @@ int main()
 
 {
     int a,b;
+    
     printf("Digite as duas pontuações: ");
     scanf("%d%d", &a, &b);
     

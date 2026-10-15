@@ -4,6 +4,7 @@ int main()
 {
     float produto, final;
     int condicao;
+    
     printf("Digite o preço do produto: ");
     scanf("%f", &produto);
     printf("Digite a condição de pagamento: ");

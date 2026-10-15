@@ -1,9 +1,11 @@
 #include <stdio.h>
-char sexo;
-int idade, contribuicao;
-int pontos;
+
 int main()
 {
+    char sexo;
+    int idade, contribuicao;
+    int pontos;
+    
     printf("Digite o sexo: ");
     scanf("%c", &sexo);
     printf("Digite a idade: ");

@@ -5,6 +5,7 @@ int main()
 
 {
     int a,b,c,d,x;
+   
     printf("Entre com os valores de a, b, c, d: ");
     scanf("%d %d %d %d", &a, &b, &c, &d ); 
    
