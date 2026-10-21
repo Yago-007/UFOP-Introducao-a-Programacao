@@ -7,7 +7,7 @@ void somaProduto(int a, int b, int *soma, int *produto)
 int main()
 {
     int a, b, soma, produto;
-    printf("Digite o valores ", a, b);
+    printf("Digite o valores ");
     scanf("%d %d", &a,&b);
 
 somaProduto(a, b, &soma, &produto);
